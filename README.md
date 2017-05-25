@@ -2,7 +2,6 @@
 
 Le but est de créer une fonction qui lit une seule ligne à partir d'un descripteur de fichier, en supposant qu'il ne soit pas manipulé entre les appels à la fonction.
 
-Le but est de créer une fonction qui lit une seule ligne à partir d'un descripteur de fichier, en supposant qu'il ne soit pas manipulé entre les appels à la fonction.
 Il doit correspondre à un seul fichier source et à un header. Le mien fonctionne avec plusieurs descripteurs de fichiers.
 
 ## Usage
