@@ -23,7 +23,7 @@ while (get_next_line(fd, &line)) // Get_Next_Line retourne 1 tant que le fichier
 // Lorsque Get_Next_Line attaindra le END OF FILE il retournera 0.
 ```
 
-Vous trouverez dans les Header un define permettent de definire le delimitateur.
+Vous trouverez dans le Header un define permettent de definire le delimitateur.
 
 Exemple:
 
