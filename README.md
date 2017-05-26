@@ -33,3 +33,4 @@ Exemple:
 # define DELIMITE '.' // retourne une phrase.
 ...
 ```
+kj
